@@ -1,0 +1,17 @@
+{
+  "name": "401-lab-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js' --fix"
+  },
+  "author": "Martin Balke",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "jest": "^24.9.0"
+  }
+}
