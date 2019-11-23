@@ -5,10 +5,8 @@
 ### Author: Martin Balke
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/martinbalke-401-adavanced-js/401-lab-16/pull/1)
+* [travis](https://www.travis-ci.com/martinbalke-401-adavanced-js/401-lab-16)
 
 
 ### Setup
